@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkSelf"]=self["webpackChunkSelf"]||[]).push([[594],{2432:function(n,t,u){u.r(t),u.d(t,{default:function(){return c}});var e=function(){var n=this;n._self._c;return n._m(0)},l=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("這是關於頁面")])])}],s=u(1656),r={},f=(0,s.A)(r,e,l,!1,null,null,null),c=f.exports}}]);
+//# sourceMappingURL=about.a6258659.js.map
